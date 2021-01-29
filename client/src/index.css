@@ -1,0 +1,58 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.central {
+    margin-top: 100px;
+}
+
+.content {
+    border-radius: 10px;
+}
+
+.stats-table {
+    width: 300px;
+}
+
+.stats-table th {
+    font-size: 20px;
+    padding-top: 4rem;
+}
+
+.warning {
+    color: #808285;
+    margin-top: 10rem;
+    margin-left: 200px;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    padding: 0 100px;
+    padding-top: 15rem;
+}
+
+.main-content {
+    height: 680px;
+}
+
+.group-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+}
+
+.stats-btn {
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.image-container {
+    border-radius: 100%;
+    width: 70px;
+    margin-left: 90px;
+}
+
+.image-container img {
+    height: 70px;
+}
+
